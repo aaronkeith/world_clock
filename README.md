@@ -1,5 +1,5 @@
 # World Clock
-A multiple view clock for people who would like to see the time in various regions across the world.
+A webapp with multiple clock views that allows users to view the current times in different regions of the world.
 
 ## Usage
 $ mongod
